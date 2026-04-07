@@ -31,3 +31,4 @@ Best Model : Logistic Regression
 
 Web App:
 Built a Streamlit app where users can input customer details and predict churn in real-time.
+Here's the link for the app ---> https://customer-churn-app-by-mayank.streamlit.app/
