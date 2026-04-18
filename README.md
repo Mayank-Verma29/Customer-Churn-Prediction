@@ -12,10 +12,10 @@ Finally, the model was deployed using Streamlit, allowing users to input custome
 Predict whether a customer will churn to help businesses retain customers.
 
 # Tools Used:
-Python (Pandas, NumPy)
-Machine Learning (Scikit-learn)
-Streamlit (Deployment)
-Matplotlib / Seaborn
+- Python (Pandas, NumPy)
+- Machine Learning (Scikit-learn)
+- Streamlit (Deployment)
+- Matplotlib / Seaborn
 
 # Key Steps:
 1) Data Cleaning
@@ -34,8 +34,8 @@ Matplotlib / Seaborn
 3) Low tenure customers are at high risk
 
 ## Model Performance
-Accuracy : 75.305%
-Best Model : Logistic Regression
+- Accuracy : 75.305%
+- Best Model : Logistic Regression
 
 ## Business Impact
 - Helps reduce customer churn
