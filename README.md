@@ -8,6 +8,9 @@ In addition to model building, key business insights were derived from the data,
 
 Finally, the model was deployed using Streamlit, allowing users to input customer details and get real-time churn predictions through an interactive web application.
 
+## Problem Statement
+Predict whether a customer will churn to help businesses retain customers.
+
 Tools Used:
 Python (Pandas, NumPy)
 Machine Learning (Scikit-learn)
